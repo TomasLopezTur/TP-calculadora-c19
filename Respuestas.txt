@@ -1,0 +1,17 @@
+a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
+matemática, hubiésemos programado todo en un mismo archivo?
+
+    El codigo hubiera sido mas lago, mas dificil de leer y de dificil mantenimiento, tambien no
+podriamos usar partes espesificas del codigo para otras cosas.
+
+
+b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+
+    Por el orden, por el mantenimiento mas sencillo y simplificar el codigo.
+
+
+
+c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
+
+    Yo creo que si, es una buena metodologia de trabajo, pero calculo que depende del codigo que
+querramos realizar.
